@@ -1,4 +1,4 @@
-# dynamic-environmen
+# dynamic-environment
 Dynamic environment file for the mobile app
 
 Valid values for `env` are:
